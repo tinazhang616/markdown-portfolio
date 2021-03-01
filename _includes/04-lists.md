@@ -1,4 +1,4 @@
-#My favorite thing:
+## My favorite things:
 
 * Raindrops on *roses*
 * Whiskers on *kittens*
